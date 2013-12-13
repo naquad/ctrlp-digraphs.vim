@@ -13,4 +13,4 @@ shows known digraphs and allows you to enter them via <C-V>.
 Plugin provides `CtrlPDigraphs` command which will
 pop up a list of available digraphs.
 
-*Note:* it is recommended to have `multi_byte` support to get more digraphs.
+**Note:** it is recommended to have `multi_byte` support to get more digraphs.
