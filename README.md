@@ -2,7 +2,7 @@
 
 CtrlP extension for fuzzy-searching digraphs.
 May be used instead of `:digraphs` / `<C-V>` combination, which
-shows known digraphs and allows you to enter them via <C-V>.
+shows known digraphs and allows you to enter them via `<C-V>`.
 
 ## Prerequisites
 
